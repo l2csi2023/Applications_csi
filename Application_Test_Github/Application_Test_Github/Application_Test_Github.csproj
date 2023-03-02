@@ -61,6 +61,7 @@
     <Compile Include="Musagalusa_Mutarushwa_Epsoir.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salomon_Tchimanga_osee.cs" />
     <Compile Include="Tondo_Luzolo_Caleb.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
