@@ -53,6 +53,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Kahembe_Dembo_Rogrique.cs" />
     <Compile Include="Kanda_Mizyama_Hubert.cs" />
     <Compile Include="KATEMBO KASIVITA Samson.cs" />
     <Compile Include="Kigombolo_Justin_Justin.cs" />
