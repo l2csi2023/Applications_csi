@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Akiba_Wanjumbi_Enock.cs" />
     <Compile Include="Augustin_Munguiko_Kazungu.cs" />
+    <Compile Include="Bizimungu_Muhati_Vianny.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
