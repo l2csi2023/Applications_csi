@@ -66,6 +66,7 @@
     <Compile Include="Salomon_Tchimanga_osee.cs" />
     <Compile Include="SchrammeBokotaTelu.cs" />
     <Compile Include="Tondo_Luzolo_Caleb.cs" />
+    <Compile Include="TumainiHabamunguLuck.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
