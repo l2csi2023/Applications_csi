@@ -59,6 +59,7 @@
     <Compile Include="KingombeOnodjelaRichardcs.cs" />
     <Compile Include="Laini_Mobile_Rachel.cs" />
     <Compile Include="Masika_Kyoma_Dorianne.cs" />
+    <Compile Include="MunfanoMateeneAugustincs.cs" />
     <Compile Include="Musagalusa_Mutarushwa_Epsoir.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
