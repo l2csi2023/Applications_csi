@@ -54,6 +54,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Kanda_Mizyama_Hubert.cs" />
+    <Compile Include="KATEMBO KASIVITA Samson.cs" />
     <Compile Include="Kigombolo_Justin_Justin.cs" />
     <Compile Include="KingombeOnodjelaRichardcs.cs" />
     <Compile Include="Laini_Mobile_Rachel.cs" />
