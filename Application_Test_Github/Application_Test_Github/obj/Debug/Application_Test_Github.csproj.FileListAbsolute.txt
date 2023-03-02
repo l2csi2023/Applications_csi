@@ -10,3 +10,6 @@ C:\Users\user\Desktop\Git hub projet 2023 CSI\Applications_csi\Application_Test_
 C:\Users\Augustin\Desktop\ProjetL2CSI2023\Applications_csi\Application_Test_Github\Application_Test_Github\bin\Debug\Application_Test_Github.exe.config
 C:\Users\Augustin\Desktop\ProjetL2CSI2023\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.exe
 C:\Users\Augustin\Desktop\ProjetL2CSI2023\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.pdb
+C:\Users\Augustin\Desktop\ProjetTp\Applications_csi\Application_Test_Github\Application_Test_Github\bin\Debug\Application_Test_Github.exe.config
+C:\Users\Augustin\Desktop\ProjetTp\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.exe
+C:\Users\Augustin\Desktop\ProjetTp\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.pdb

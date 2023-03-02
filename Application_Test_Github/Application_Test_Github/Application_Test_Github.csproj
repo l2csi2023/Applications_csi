@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Kanda_Mizyama_Hubert.cs" />
     <Compile Include="Kigombolo_Justin_Justin.cs" />
+    <Compile Include="Laini_Mobile_Rachel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
