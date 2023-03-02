@@ -16,3 +16,6 @@ C:\Users\Augustin\Desktop\ProjetTp\Applications_csi\Application_Test_Github\Appl
 C:\Users\VANNEY\Desktop\github projet\Applications_csi\Application_Test_Github\Application_Test_Github\bin\Debug\Application_Test_Github.exe.config
 C:\Users\VANNEY\Desktop\github projet\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.exe
 C:\Users\VANNEY\Desktop\github projet\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.pdb
+C:\Users\EL-SADAR\Desktop\GithubCSI\Applications_csi\Application_Test_Github\Application_Test_Github\bin\Debug\Application_Test_Github.exe.config
+C:\Users\EL-SADAR\Desktop\GithubCSI\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.exe
+C:\Users\EL-SADAR\Desktop\GithubCSI\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.pdb
