@@ -28,3 +28,6 @@ C:\Users\Samson KASIVITA\Desktop\Git hub projet 2023\Applications_csi\Applicatio
 C:\Users\Samson KASIVITA\Desktop\Git hub projet 2023\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.Form1.resources
 C:\Users\Samson KASIVITA\Desktop\Git hub projet 2023\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.Properties.Resources.resources
 C:\Users\Samson KASIVITA\Desktop\Git hub projet 2023\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.csproj.GenerateResource.Cache
+C:\Users\Augustin\Desktop\ProjrtL2csi\Applications_csi\Application_Test_Github\Application_Test_Github\bin\Debug\Application_Test_Github.exe.config
+C:\Users\Augustin\Desktop\ProjrtL2csi\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.exe
+C:\Users\Augustin\Desktop\ProjrtL2csi\Applications_csi\Application_Test_Github\Application_Test_Github\obj\Debug\Application_Test_Github.pdb
